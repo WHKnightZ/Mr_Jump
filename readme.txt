@@ -7,3 +7,5 @@ Pick clocks to gain time, coins to revive
 Try to get high score!
 
 https://www.youtube.com/watch?v=WdkKYi-sZfk
+
+Updating ...
